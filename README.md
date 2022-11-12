@@ -91,3 +91,4 @@ Staff
 Contributors
 
 - See http://pokemonshowdown.com/credits
+"# pokemon-showdown-club" 
